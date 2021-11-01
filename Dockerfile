@@ -1,1 +1,1 @@
-docker pull hjk0913/qademo
+FROM hjk0913/qademo
